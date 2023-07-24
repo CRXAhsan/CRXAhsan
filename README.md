@@ -57,10 +57,12 @@
   
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsantariq&show_icons=true&locale=en&layout=compact" alt="ahsantariq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CRXAhsan&theme=dark&hide_border=true&card_width=550&show_icons=true&locale=en&layout=compact" alt="ahsantariq" /></p>
 
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=ahsantariq&show_icons=true&locale=en" alt="ahsantariq" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=CRXAhsan&theme=dark&hide_border=true&card_width=550&show_icons=true&locale=en" alt="ahsantariq" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsantariq&" alt="ahsantariq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CRXAhsan&theme=dark&hide_border=true&card_width=550" alt="ahsantariq" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsantariq" alt="ahsantariq" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CRXAhsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
