@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=F7F402&center=true&vCenter=true&width=1000&lines=Algorithmic+poetry%2C+a+programmer's+enchantment;Through+commits%2C+dreams+take+flight%2C+code+soars.;A+dance+of+logic%2C+creating+digital+marvels.)](https://git.io/typing-svg)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahsantariq&label=Profile%20views&color=0e75b6&style=flat" alt="ahsantariq" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CRXAhsan&label=Profile%20views&color=0e75b6&style=flat" alt="CRXAhsan" /> </p>
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
@@ -57,11 +57,11 @@
   
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CRXAhsan&theme=dark&hide_border=true&card_width=550&show_icons=true&locale=en&layout=compact" alt="ahsantariq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CRXAhsan&theme=dark&hide_border=true&card_width=550&show_icons=true&locale=en&layout=compact" alt="CRXAhsan" /></p>
 
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=CRXAhsan&theme=dark&hide_border=true&card_width=550&show_icons=true&locale=en" alt="ahsantariq" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=CRXAhsan&theme=dark&hide_border=true&card_width=550&show_icons=true&locale=en" alt="CRXAhsan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CRXAhsan&theme=dark&hide_border=true&card_width=550" alt="ahsantariq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CRXAhsan&theme=dark&hide_border=true&card_width=550" alt="CRXAhsan" /></p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CRXAhsan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
