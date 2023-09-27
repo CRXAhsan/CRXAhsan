@@ -3,8 +3,7 @@
 
 <h1 align="center">Welcome to Ahsan Tariq's Code Kingdom</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=17&pause=1000&color=F7F402&center=true&vCenter=true&width=1000&lines=Algorithmic+poetry%2C+a+programmer's+enchantment;Through+commits%2C+dreams+take+flight%2C+code+soars.;A+dance+of+logic%2C+creating+digital+marvels.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&center=true&width=1200&lines=Web+Developer;App+Developer;Game+Developer)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CRXAhsan&label=Profile%20views&color=0e75b6&style=flat" alt="CRXAhsan" /> </p>
 
